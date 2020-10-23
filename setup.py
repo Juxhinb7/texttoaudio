@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name="texttospeech",
+    name="texttoaudio",
     packages=["application"],
     description=["A simple package"],
     long_description=open("README.md").read(),
