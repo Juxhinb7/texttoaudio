@@ -1,7 +1,5 @@
 import pyttsx3
 import sys
-from random import randint
-from time import sleep
 import trafilatura
 
 
