@@ -5,5 +5,5 @@ setup(
     packages=["application"],
     description=["A simple package"],
     long_description=open("README.txt").read(),
-    install_requires=["pyttsx3"]
+    install_requires=["pyttsx3", "trafilatura"]
 )
