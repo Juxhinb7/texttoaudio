@@ -33,7 +33,7 @@ try:
                 app.save_to_file(subcategory_text, "{}.{}".format(subcategory_input, audio_format))
             else:
                 raise ValueError
-        #app.say(subcategory_text)
+        
         
         
 
